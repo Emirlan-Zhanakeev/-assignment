@@ -1,6 +1,6 @@
 # assignment
 
-Flutter project.
+Flutter test project
 for LightCode
 
 Short introdiction Video --> 
